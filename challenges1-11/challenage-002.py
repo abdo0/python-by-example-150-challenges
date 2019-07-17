@@ -1,0 +1,5 @@
+print('enter your name')
+name = input("name : ")
+print('enter your surname')
+surname = input("surname : ")
+print('your name is {0} and surname is {1}'.format(name, surname))
