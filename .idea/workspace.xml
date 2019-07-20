@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7106b959-52c5-4d26-9f5a-8703a78c8c29" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/challenges60-68/challenge-060.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challenges60-68/challenge-061.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challenges60-68/challenge-062.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challenges60-68/challenge-063.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challenges60-68/challenge-064.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challenges60-68/challenge-065.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challenges60-68/challenge-066.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challenges60-68/challenge-067.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/challenges60-68/challenge-068.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challenges69-79/challenge-069.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challenges69-79/challenge-070.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challenges69-79/challenge-071.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challenges69-79/challenge-072.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challenges69-79/challenge-073.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challenges69-79/challenge-074.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challenges69-79/challenge-075.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challenges69-79/challenge-076.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/challenges69-79/challenge-077.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -23,91 +23,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/challenges60-68/challenge-060.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="6" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/challenges60-68/challenge-061.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="6" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/challenges60-68/challenge-062.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="16" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/challenges60-68/challenge-063.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/challenges60-68/challenge-064.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/challenges60-68/challenge-065.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/challenges60-68/challenge-066.py">
+        <entry file="file://$PROJECT_DIR$/challenges69-79/challenge-076.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/challenges60-68/challenge-067.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
+              <caret line="8" column="19" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/challenges60-68/challenge-068.py">
+        <entry file="file://$PROJECT_DIR$/challenges69-79/challenge-077.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -155,6 +83,15 @@
         <option value="$PROJECT_DIR$/challenges60-68/challenge-066.py" />
         <option value="$PROJECT_DIR$/challenges60-68/challenge-067.py" />
         <option value="$PROJECT_DIR$/challenges60-68/challenge-068.py" />
+        <option value="$PROJECT_DIR$/challenges69-79/challenge-069.py" />
+        <option value="$PROJECT_DIR$/challenges69-79/challenge-070.py" />
+        <option value="$PROJECT_DIR$/challenges69-79/challenge-071.py" />
+        <option value="$PROJECT_DIR$/challenges69-79/challenge-072.py" />
+        <option value="$PROJECT_DIR$/challenges69-79/challenge-073.py" />
+        <option value="$PROJECT_DIR$/challenges69-79/challenge-074.py" />
+        <option value="$PROJECT_DIR$/challenges69-79/challenge-075.py" />
+        <option value="$PROJECT_DIR$/challenges69-79/challenge-076.py" />
+        <option value="$PROJECT_DIR$/challenges69-79/challenge-077.py" />
       </list>
     </option>
   </component>
@@ -171,6 +108,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -183,11 +121,15 @@
               <item name="paython-by-learn" type="462c0819:PsiDirectoryNode" />
               <item name="challenges60-68" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="paython-by-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="paython-by-learn" type="462c0819:PsiDirectoryNode" />
+              <item name="challenges69-79" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -222,7 +164,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.challenge-060">
+  <component name="RunManager" selected="Python.challenge-077">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="paython-by-learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -245,20 +187,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="challenge-056" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="challenge-073" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="paython-by-learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/challenges52-59" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/challenges69-79" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/challenges52-59/challenge-056.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/challenges69-79/challenge-073.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,20 +206,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="challenge-057" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="challenge-074" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="paython-by-learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/challenges52-59" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/challenges69-79" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/challenges52-59/challenge-057.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/challenges69-79/challenge-074.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -289,20 +225,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="challenge-058" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="challenge-075" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="paython-by-learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/challenges52-59" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/challenges69-79" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/challenges52-59/challenge-058.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/challenges69-79/challenge-075.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -311,20 +244,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="challenge-059" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="challenge-076" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="paython-by-learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/challenges52-59" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/challenges69-79" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/challenges52-59/challenge-059.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/challenges69-79/challenge-076.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -333,17 +263,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="challenge-060" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="challenge-077" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="paython-by-learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/challenges60-68" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/challenges69-79" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/challenges60-68/challenge-060.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/challenges69-79/challenge-077.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -354,11 +284,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.challenge-060" />
-        <item itemvalue="Python.challenge-059" />
-        <item itemvalue="Python.challenge-058" />
-        <item itemvalue="Python.challenge-057" />
-        <item itemvalue="Python.challenge-056" />
+        <item itemvalue="Python.challenge-077" />
+        <item itemvalue="Python.challenge-076" />
+        <item itemvalue="Python.challenge-075" />
+        <item itemvalue="Python.challenge-074" />
+        <item itemvalue="Python.challenge-073" />
       </list>
     </recent_temporary>
   </component>
@@ -378,7 +308,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-4" width="1922" height="1085" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24986821" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -393,7 +322,7 @@
       <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32212028" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="11" visible="true" weight="0.3058104" />
+      <window_info anchor="bottom" id="Python Console" order="11" visible="true" weight="0.29153925" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -406,7 +335,8 @@
     <MESSAGE value="delete venv" />
     <MESSAGE value="second day of python challenges" />
     <MESSAGE value="3rd day of python challenges 51-59" />
-    <option name="LAST_COMMIT_MESSAGE" value="3rd day of python challenges 51-59" />
+    <MESSAGE value="3rd day of python challenges 60-68" />
+    <option name="LAST_COMMIT_MESSAGE" value="3rd day of python challenges 60-68" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/paython_by_learn$challenge_039.coverage" NAME="challenge-039 Coverage Results" MODIFIED="1563282890417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/challenges35-44" />
@@ -562,10 +492,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/challenges60-68/challenge-063.py">
+    <entry file="file://$PROJECT_DIR$/challenges60-68/challenge-060.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/challenges60-68/challenge-061.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <caret line="4" selection-start-line="4" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -576,10 +513,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/challenges60-68/challenge-061.py">
+    <entry file="file://$PROJECT_DIR$/challenges60-68/challenge-063.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="6" selection-end-column="17" />
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -591,22 +528,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/challenges60-68/challenge-065.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/challenges60-68/challenge-060.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/challenges60-68/challenge-066.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="105">
           <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
@@ -616,8 +542,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/challenges60-68/challenge-067.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        <state relative-caret-position="120">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
@@ -631,6 +557,69 @@
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/challenges69-79/challenge-069.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="16" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/challenges69-79/challenge-070.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/challenges69-79/challenge-071.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/challenges69-79/challenge-072.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/challenges69-79/challenge-075.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/challenges69-79/challenge-074.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/challenges69-79/challenge-073.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/challenges69-79/challenge-076.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/challenges69-79/challenge-077.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
         </state>
       </provider>
     </entry>
