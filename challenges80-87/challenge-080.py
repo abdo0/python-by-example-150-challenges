@@ -1,0 +1,5 @@
+first_name = str(input('Enter your first name : '))
+print('Your first name length is {0}'.format(len(first_name)))
+sure_name = str(input('Enter your sure name : '))
+print('Your surname length is {0}'.format(len(sure_name)))
+print('{0} {1} name length is {2}'.format(first_name, sure_name, len(first_name+' '+sure_name)))
